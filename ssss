@@ -1,3 +1,7 @@
 hello
 how are you
+<<<<<<< HEAD
 what are you doing:
+=======
+where are you
+>>>>>>> c739a36e3542a9d03fe6c76a16f7953f143f68a9
